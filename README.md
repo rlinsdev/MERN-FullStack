@@ -1,5 +1,5 @@
 # MERN-Stack-Tutorial
-Stack app -  The Net Ninja Pro website.
+Stack app -  The Net Ninja.
 
 
 ## `Technologies`
