@@ -20,7 +20,8 @@ https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLI
 ## `Commands`
 
 ```sh
-$> npm run dev
+$> ./backend/npm run dev
+$> ./frontend/npm start
 ```
 
 ## `Tools`:
