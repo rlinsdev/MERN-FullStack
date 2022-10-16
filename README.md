@@ -24,6 +24,6 @@ $> ./backend/npm run dev
 $> ./frontend/npm start
 ```
 
-## `Tools`:
+## `Tools`: s
 
 • Postman
